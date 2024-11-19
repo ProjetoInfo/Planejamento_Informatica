@@ -9,6 +9,7 @@
 - **Serviço de Entrega e Coleta**: Opção conveniente de entrega do veículo no local desejado e coleta após o uso.
 - **Seguro e Assistência na Estrada**: Oferecemos planos de seguro abrangente e assistência 24/7 para garantir a tranquilidade dos nossos clientes.
 
+<hr>
 
 ### 2. Definição de Preços
 
@@ -52,6 +53,8 @@
         - Seguro completo (cobertura total): R$ 50 - R$ 80 por dia.
         - Assistência na estrada: Inclusa no seguro completo ou R$ 10 por dia adicional no seguro básico.
 
+<hr>
+
 ### 3. Tecnologias Utilizadas:
 
 - **Sistemas de Gestão**:
@@ -77,4 +80,6 @@
 - **Tecnologia de Segurança**:
     - Alarmes e bloqueadores de veículos via sistema remoto.
     - Sistemas antifraude para contratos e pagamentos.
+
+<hr>
 
