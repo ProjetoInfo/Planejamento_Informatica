@@ -3,14 +3,14 @@
 
 > Status: Em Desenvolvimento ⚠️
 
-### Serviços Oferecidos:
+### 1. Serviços Oferecidos:
 - **Aluguel de Carros**: Frota diversificada com opções que vão desde carros compactos até SUVs e modelos de luxo.
 - **Aluguel de Longa Duração**: Planos de aluguel para períodos prolongados, ideais para aqueles que precisam de um veículo por semanas ou meses.
 - **Serviço de Entrega e Coleta**: Opção conveniente de entrega do veículo no local desejado e coleta após o uso.
 - **Seguro e Assistência na Estrada**: Oferecemos planos de seguro abrangente e assistência 24/7 para garantir a tranquilidade dos nossos clientes.
 
 
-### Definição de Preços
+### 2. Definição de Preços
 
 - **Aluguel de Carros**
     - **Fator de cálculo**:
@@ -52,7 +52,7 @@
         - Seguro completo (cobertura total): R$ 50 - R$ 80 por dia.
         - Assistência na estrada: Inclusa no seguro completo ou R$ 10 por dia adicional no seguro básico.
 
-### Tecnologias Utilizadas:
+### 3. Tecnologias Utilizadas:
 
 - **Sistemas de Gestão**:
     - **ERP** (Enterprise Resource Planning): Para controle financeiro, inventário, contratos e faturamento.
