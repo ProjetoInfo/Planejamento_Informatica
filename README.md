@@ -11,51 +11,7 @@
 
 <hr>
 
-### 2. Definição de Preços
-
-- **Aluguel de Carros**
-    - **Fator de cálculo**:
-        - Custos de manutenção e depreciação dos veículos.
-        - Tipo de veículo (compactos, SUVs, luxo).
-        - Concorrência local e demanda por categoria.
-    - **Valores:**
-        - Compactos: R$ 100 - R$ 150 por dia.
-        - SUVs: R$ 200 - R$ 300 por dia.
-        - Modelos de luxo: R$ 500 - R$ 800 por dia.
-
-
-- **Aluguel de Longa Duração**
-    - **Fator de cálculo:**
-        - Desconto por período prolongado (20-30% abaixo do valor diário proporcional).
-        - Custos de seguro e manutenção durante o período.
-    - **Valores:**
-        - Compactos: R$ 2.000 - R$ 3.500 por mês.
-        - SUVs: R$ 4.500 - R$ 6.500 por mês.
-        - Modelos de luxo: R$ 10.000 - R$ 15.000 por mês.
-
-
-- **Serviço de Entrega e Coleta**
-    - **Fator de cálculo**:
-        - Distância percorrida para entrega e coleta.
-        - Custos operacionais (combustível, motorista, logística).
-    - **Valores:**
-        - Dentro de um raio de 10 km: R$ 30.
-        - Entre 10 e 30 km: R$ 50.
-        - Acima de 30 km: R$ 70 (ou combinar tarifa por km adicional).
-
-
-- **Seguro e Assistência na Estrada**
-    - **Fator de cálculo**:
-        - Cobertura do seguro (básica ou completa).
-        - Custos do serviço de assistência (24/7).
-    - **Valores:**
-        - Seguro básico (cobertura contra roubo e danos parciais): R$ 20 - R$ 40 por dia.
-        - Seguro completo (cobertura total): R$ 50 - R$ 80 por dia.
-        - Assistência na estrada: Inclusa no seguro completo ou R$ 10 por dia adicional no seguro básico.
-
-<hr>
-
-### 3. Tecnologias Utilizadas:
+### 2. Tecnologias Utilizadas:
 
 - **Sistemas de Gestão**:
     - **ERP** (Enterprise Resource Planning): Para controle financeiro, inventário, contratos e faturamento.
@@ -83,3 +39,7 @@
 
 <hr>
 
+### 4. Membros de equipe
+
+    - Nome: Alexandre Henrique Dorfler Schopf
+    RA: 2224101576
