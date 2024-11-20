@@ -41,5 +41,20 @@
 
 ### 4. Membros de equipe
 
-    - Nome: Alexandre Henrique Dorfler Schopf
-    RA: 2224101576
+**Membro 1**
+- Nome: Alexandre Henrique Dorfler Schopf
+- RA: 2224101576
+
+**Membro 2**
+- Nome: Emilly Torres Luiz
+- RA: 2224103650
+
+**Membro 3**
+- Nome: Ruan Pablo Silva
+- RA: 2224104275
+
+**Membro 4**
+- Nome: Vinicius Barboza Alves
+- RA: 2224104633
+
+<hr>
