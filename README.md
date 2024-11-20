@@ -39,7 +39,7 @@
 
 <hr>
 
-### 4. Membros de equipe
+### 3. Membros de equipe
 
 **Membro 1**
 - Nome: Alexandre Henrique Dorfler Schopf
