@@ -9,6 +9,7 @@
 - **Serviço de Entrega e Coleta**: Opção conveniente de entrega do veículo no local desejado e coleta após o uso.
 - **Seguro e Assistência na Estrada**: Oferecemos planos de seguro abrangente e assistência 24/7 para garantir a tranquilidade dos nossos clientes.
 
+
 <hr>
 
 ### 2. Tecnologias Utilizadas:
@@ -37,6 +38,7 @@
     - Alarmes e bloqueadores de veículos via sistema remoto.
     - Sistemas antifraude para contratos e pagamentos.
 
+
 <hr>
 
 ### 3. Membros de equipe
@@ -56,5 +58,6 @@
 **Membro 4**
 - Nome: Vinicius Barboza Alves
 - RA: 2224104633
+
 
 <hr>
