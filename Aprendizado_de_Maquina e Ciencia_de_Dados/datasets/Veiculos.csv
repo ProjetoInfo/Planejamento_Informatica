@@ -1,43 +1,43 @@
-Marca, Modelo, Ano, Placa, Status
-Toyota,Corolla,2022,UAV6N22,Em Manutenção
-Toyota,Yaris,2018,GDF5O76,Em Manutenção
-Ford,Fiesta,2020,BHL5I75,Em Manutenção
-Ford,EcoSport,2021,JJG8P64,Disponível
-Chevrolet,Onix,2023,TET5N13,Em Manutenção
-Chevrolet,Tracker,2022,AAN8U56,Em Manutenção
-Nissan,Versa,2021,TKU2P22,Em Manutenção
-Nissan,Kicks,2020,DBD6U12,Reservado
-BMW,3 Series,2022,YFG7G54,Em Manutenção
-BMW,X5,2021,ISX1U96,Reservado
-Mercedes-Benz,C-Class,2023,WZB8L76,Reservado
-Mercedes-Benz,GLC,2020,CBZ8A90,Em Manutenção
-Audi,A4,2023,GYC5L59,Disponível
-Audi,Q3,2021,FOS7A78,Reservado
-Volkswagen,Polo,2022,PBI4O92,Disponível
-Volkswagen,Tiguan,2020,ATJ1G05,Reservado
-Porsche,911 Carrera,2021,EET0C89,Em Manutenção
-Porsche,Cayenne,2023,JRH8M44,Disponível
-Mazda,CX-5,2021,ZQO5O91,Em Manutenção
-Mazda,Mazda3,2020,GSH0B56,Em Manutenção
-Subaru,Outback,2022,TIB3K13,Reservado
-Subaru,XV Crosstrek,2021,ZBX6S68,Disponível
-Tesla,Model 3,2023,QWL5W55,Reservado
-Tesla,Model S,2022,UDX2I38,Reservado
-Dodge,Charger,2020,BLD3R21,Disponível
-Dodge,Durango,2021,HYU6N11,Disponível
-Ram,1500,2022,CLN6G44,Reservado
-Ram,2500,2021,ICM8Q57,Reservado
-Volvo,XC60,2022,BEP7R30,Disponível
-Volvo,S90,2020,RER8O02,Em Manutenção
-Fiat,500,2019,VHV9X52,Em Manutenção
-Fiat,Cronos,2021,AVJ2E10,Reservado
-Peugeot,208,2022,MEP7Q21,Em Manutenção
-Peugeot,3008,2020,TVS6N38,Disponível
-Renault,Duster,2023,VSO6N91,Em Manutenção
-Renault,Kwid,2021,MKR7C42,Reservado
-Bugatti,Chiron,2022,GES3R27,Em Manutenção
-Bugatti,Veyron,2018,ZJJ8L06,Em Manutenção
-Suzuki,Swift,2021,IPZ2O32,Disponível
-Suzuki,Vitara,2022,UJX5M31,Disponível
-Honda,Civic,2023,MOT8P60,Em Manutenção
-Honda,HR-V,2022,APS1I69,Disponível
+Veiculo_ID,Marca, Modelo, Ano, Placa, Status
+1,Toyota,Corolla,2022,UAV6N22,Em Manutenção
+2,Toyota,Yaris,2018,GDF5O76,Em Manutenção
+3,Ford,Fiesta,2020,BHL5I75,Em Manutenção
+4,Ford,EcoSport,2021,JJG8P64,Disponível
+5,Chevrolet,Onix,2023,TET5N13,Em Manutenção
+6,Chevrolet,Tracker,2022,AAN8U56,Em Manutenção
+7,Nissan,Versa,2021,TKU2P22,Em Manutenção
+8,Nissan,Kicks,2020,DBD6U12,Reservado
+9,BMW,3 Series,2022,YFG7G54,Em Manutenção
+10,BMW,X5,2021,ISX1U96,Reservado
+11,Mercedes-Benz,C-Class,2023,WZB8L76,Reservado
+12,Mercedes-Benz,GLC,2020,CBZ8A90,Em Manutenção
+13,Audi,A4,2023,GYC5L59,Disponível
+14,Audi,Q3,2021,FOS7A78,Reservado
+15,Volkswagen,Polo,2022,PBI4O92,Disponível
+16,Volkswagen,Tiguan,2020,ATJ1G05,Reservado
+17,Porsche,911 Carrera,2021,EET0C89,Em Manutenção
+18,Porsche,Cayenne,2023,JRH8M44,Disponível
+19,Mazda,CX-5,2021,ZQO5O91,Em Manutenção
+20,Mazda,Mazda3,2020,GSH0B56,Em Manutenção
+21,Subaru,Outback,2022,TIB3K13,Reservado
+22,Subaru,XV Crosstrek,2021,ZBX6S68,Disponível
+23,Tesla,Model 3,2023,QWL5W55,Reservado
+24,Tesla,Model S,2022,UDX2I38,Reservado
+25,Dodge,Charger,2020,BLD3R21,Disponível
+26,Dodge,Durango,2021,HYU6N11,Disponível
+27,Ram,1500,2022,CLN6G44,Reservado
+28,Ram,2500,2021,ICM8Q57,Reservado
+29,Volvo,XC60,2022,BEP7R30,Disponível
+30,Volvo,S90,2020,RER8O02,Em Manutenção
+31,Fiat,500,2019,VHV9X52,Em Manutenção
+32,Fiat,Cronos,2021,AVJ2E10,Reservado
+33,Peugeot,208,2022,MEP7Q21,Em Manutenção
+34,Peugeot,3008,2020,TVS6N38,Disponível
+35,Renault,Duster,2023,VSO6N91,Em Manutenção
+36,Renault,Kwid,2021,MKR7C42,Reservado
+37,Bugatti,Chiron,2022,GES3R27,Em Manutenção
+38,Bugatti,Veyron,2018,ZJJ8L06,Em Manutenção
+39,Suzuki,Swift,2021,IPZ2O32,Disponível
+40,Suzuki,Vitara,2022,UJX5M31,Disponível
+41,Honda,Civic,2023,MOT8P60,Em Manutenção
+42,Honda,HR-V,2022,APS1I69,Disponível
