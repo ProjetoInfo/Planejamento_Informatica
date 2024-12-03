@@ -1,6 +1,9 @@
-1. Importação dos Datasets
-Primeiramente, os dados seriam carregados para DataFrames do Pandas. Isso pode ser feito a partir de arquivos como .csv, .xlsx, ou diretamente de listas ou dicionários.
+Estrutura da organização dos datasets
 
+---
+
+1. Importação dos Datasets
+Primeiramente, os dados seriam carregados para DataFrames do Pandas.    
 ---
 
 2. Padronização dos Dados
