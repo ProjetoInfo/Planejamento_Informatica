@@ -3,33 +3,24 @@ Estrutura da organização dos datasets
 ---
 
 1. Importação dos Datasets
-Primeiramente, os dados seriam carregados para DataFrames do Pandas.    
+Carregar todos os dados em DataFrames do pandas.
+
 ---
 
 2. Padronização dos Dados
-Os datasets seriam verificados para garantir consistência e uniformidade:
-
-Nomes das Colunas: Renomear as colunas para seguir um padrão (exemplo: usar snake_case como clientes_id, numero_telefone, etc.).
-Tipos de Dados: Certificar-se de que cada coluna tenha o tipo correto (por exemplo, IDs e telefones como strings, datas no formato datetime, etc.).
-Formatos de Dados: Padronizar formatos, como e-mails sempre em minúsculas.
+Certificar-se de que os datasets seguem um padrão, incluindo renomeação de colunas, padronização de formatos e ajuste de tipos de dados.
 
 ---
 
 3. Tratamento de Dados
-Essa etapa envolve corrigir e preparar os dados para uso:
-
-Valores Nulos: Identificar e tratar valores ausentes, preenchendo com valores padrão ou removendo registros incompletos.
-Duplicatas: Remover linhas duplicadas, se necessário.
-Validação: Verificar se os dados seguem as regras esperadas (ex.: IDs únicos, emails válidos).
+Essa etapa envolve identificar e corrigir inconsistências:
+- Valores Nulos: Preenchimento ou remoção de registros com valores ausentes.
+- Remoção de Duplicatas: Identificar e excluir linhas duplicadas para evitar redundância.
 
 ---
 
 4. Relacionamento entre Datasets
-Os datasets relacionados seriam organizados para permitir fusões (joins) futuras, como:
-
-Relacionar Funcionários com Cargos pelo cargo_id.
-Relacionar Cargos com Departamentos pelo departamento_id.
-Criar um esquema claro de relações primária-estrangeira para consultas e manipulações.
+Estabelecer relações entre os datasets com base em chaves primárias e estrangeiras.
 
 ---
 

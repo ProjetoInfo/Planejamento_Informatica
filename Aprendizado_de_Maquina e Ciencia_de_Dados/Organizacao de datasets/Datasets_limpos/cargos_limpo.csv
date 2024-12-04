@@ -1,0 +1,23 @@
+cargo_id,cargo,departamento_id
+1,CEO,1
+2,COO,1
+3,CFO,1
+4,Gerente Comercial,2
+5,Atendente de Vendas/Atendimento ao Cliente,2
+6,Supervisor de Atendimento ao Cliente,2
+7,Gerente de Frota,3
+8,Coordenador de Logística e Entrega,3
+9,Motorista/Entregador,3
+10,Gerente de TI,4
+11,Desenvolvedor de Sistemas,4
+12,Analista de Dados,4
+13,CRM,4
+14,Coordenador de Marketing Digital,5
+15,Analista de Mídias Sociais,5
+16,Designer Gráfico,5
+17,Gerente de Recursos Humanos,6
+18,Assistente Administrativo,6
+19,Analista Financeiro,7
+20,Contador,6
+21,Supervisor de Manutenção de Veículos,8
+22,Técnico de Segurança Veicular,8
