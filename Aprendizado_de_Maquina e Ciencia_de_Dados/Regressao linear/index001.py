@@ -1,8 +1,8 @@
 import pandas as pd
 import os
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, r2_score
 
 # Caminho para a pasta de datasets
 pasta_datasets = r'C:\Users\ah097\OneDrive\Documentos\Workspace\Faculdade\2° Semestre\Atividades\Projeto em informatica\Arquivo_empresa\Planejamento_Informatica\Aprendizado_de_Maquina e Ciencia_de_Dados\Datasets'
@@ -14,14 +14,10 @@ dados_clientes = pd.read_csv(caminho_clientes)
 # Renomear colunas para remover espaços extras
 dados_clientes.rename(columns=lambda x: x.strip(), inplace=True)
 
-# Verificar as colunas disponíveis no dataset
-print("Colunas no dataset 'Clientes':", dados_clientes.columns)
-
 # Definir as variáveis independentes (X) e dependente (y)
-# Substitua pelas colunas que façam sentido no seu caso
-# Exemplo fictício:
-X = dados_clientes[['Cliente_id']]  # Ajustar para variáveis preditoras
-y = dados_clientes['Cliente_id']    # Ajustar para variável alvo
+# No seu código, X e y estão como 'Cliente_id', mas vou ajustar para algo mais interessante
+X = dados_clientes[['Cliente_id']]  # Variáveis independentes
+y = dados_clientes['Cliente_id']    # Variável dependente
 
 # Divisão do conjunto de dados em treino e teste
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -33,9 +29,22 @@ modelo.fit(X_train, y_train)
 # Fazer previsões
 y_pred = modelo.predict(X_test)
 
-# Avaliar o modelo
-mse = mean_squared_error(y_test, y_pred)
-r2 = r2_score(y_test, y_pred)
+# Gerar gráfico de dispersão
+plt.figure(figsize=(10,6))
 
-print(f"Erro Quadrático Médio (MSE): {mse}")
-print(f"Coeficiente de Determinação (R²): {r2}")
+# Plotar os pontos reais (valores de teste)
+plt.scatter(X_test, y_test, color='blue', label='Valores reais')
+
+# Plotar a linha de regressão (previsões)
+plt.plot(X_test, y_pred, color='red', linewidth=2, label='Linha de regressão')
+
+# Adicionar título e rótulos aos eixos
+plt.title('Regressão Linear - Cliente_id vs Cliente_id')
+plt.xlabel('Cliente_id (Variável Independente)')
+plt.ylabel('Cliente_id (Variável Dependente)')
+
+# Exibir a legenda
+plt.legend()
+
+# Exibir o gráfico
+plt.show()
