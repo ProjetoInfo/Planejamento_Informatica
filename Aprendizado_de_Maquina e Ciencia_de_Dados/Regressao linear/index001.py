@@ -1,11 +1,12 @@
 import pandas as pd
 import os
+from pathlib import Path
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 # Caminho para a pasta de datasets
-pasta_datasets = r'C:\Users\ah097\OneDrive\Documentos\Workspace\Faculdade\2° Semestre\Atividades\Projeto em informatica\Arquivo_empresa\Planejamento_Informatica\Aprendizado_de_Maquina e Ciencia_de_Dados\Datasets'
+pasta_datasets = Path("../Planejamento_Informatica/Aprendizado_de_Maquina e Ciencia_de_Dados/Datasets")
 
 # Carregar o dataset de clientes
 caminho_clientes = os.path.join(pasta_datasets, 'Clientes.csv')

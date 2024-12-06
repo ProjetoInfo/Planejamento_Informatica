@@ -1,12 +1,13 @@
 import pandas as pd
+from pathlib import Path
 import os
 
 # 1. Importação dos Datasets
 # --- Define a pasta onde os datasets estão armazenados ---
-pasta_datasets = r'Planejamento_Informatica\Aprendizado_de_Maquina e Ciencia_de_Dados\Datasets'
+pasta_datasets = Path("../Planejamento_Informatica/Aprendizado_de_Maquina e Ciencia_de_Dados/Datasets")
 
 # --- Define a pasta onde os datasets serão salvos ---
-salvar_datasets = r'Planejamento_Informatica\Aprendizado_de_Maquina e Ciencia_de_Dados\Organizacao de datasets\Datasets_limpos'
+salvar_datasets = Path("../Planejamento_Informatica\Aprendizado_de_Maquina e Ciencia_de_Dados\Organizacao de datasets\Datasets_limpos")
 
 # --- Dicionário com os nomes dos arquivos ---
 arquivos = {
